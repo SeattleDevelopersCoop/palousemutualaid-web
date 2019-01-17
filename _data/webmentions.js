@@ -5,9 +5,10 @@ const unionBy = require('lodash/unionBy')
 // Load .env variables with dotenv
 require('dotenv').config()
 
+// Configuration Parameters
 const CACHE_DIR = '_cache'
 const API_ORIGIN = 'https://webmention.io/api/mentions.jf2'
-const DOMAIN = 'mxb.at'
+const DOMAIN = '{{ metadata.domain }}'
 const TOKEN = process.env.WEBMENTION_IO_TOKEN
 
 async function fetchWebmentions(since) {

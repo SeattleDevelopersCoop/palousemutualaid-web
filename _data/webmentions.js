@@ -1,6 +1,7 @@
 const fs = require('fs')
 const fetch = require('node-fetch')
 const unionBy = require('lodash/unionBy')
+const metadata = require('./metadata.json')
 
 // Load .env variables with dotenv
 require('dotenv').config()
@@ -8,10 +9,18 @@ require('dotenv').config()
 // Configuration Parameters
 const CACHE_DIR = '_cache'
 const API_ORIGIN = 'https://webmention.io/api/mentions.jf2'
-const DOMAIN = '{{ metadata.domain }}'
 const TOKEN = process.env.WEBMENTION_IO_TOKEN
 
 async function fetchWebmentions(since) {
+  const { domain } = metadata
+
+  if (!domain || domain === 'myurl.com') {
+    // If we dont have a domain name, abort
+    console.warn(
+      'unable to fetch webmentions: no domain specified in metadata.'
+    )
+    return false
+  }
   if (!TOKEN) {
     // If we dont have a domain access token, abort
     console.warn(
@@ -20,7 +29,7 @@ async function fetchWebmentions(since) {
     return false
   }
 
-  let url = `${API_ORIGIN}?domain=${DOMAIN}&token=${TOKEN}`
+  let url = `${API_ORIGIN}?domain=${domain}&token=${TOKEN}`
   if (since) {
     url += `&per-page=100&&since=${since}`
   } else {

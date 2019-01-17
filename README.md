@@ -3,6 +3,8 @@
 A basic starter template for [Eleventy](https://www.11ty.io) blogs with added support for [webmentions](https://indieweb.org/Webmention).  
 For more information about this, read [Static Indieweb: Using Webmentions](https://mxb.at/blog/using-webmentions-on-static-sites/).
 
+![Example of Webmention Section](https://mxb.at/assets/media/static-indieweb-webmentions/starter-template.png)
+
 ## Installation
 
 Run `npm install` after cloning this repository. The available commands are identical to [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).

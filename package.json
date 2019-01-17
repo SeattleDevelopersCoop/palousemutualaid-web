@@ -30,6 +30,7 @@
     "luxon": "^1.0.0",
     "markdown-it": "^8.4.1",
     "markdown-it-anchor": "^5.0.2",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.3.0",
+    "sanitize-html": "^1.20.0"
   }
 }

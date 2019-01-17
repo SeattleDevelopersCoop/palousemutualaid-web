@@ -3,7 +3,7 @@
   {% if mentions | length %}
 
     <div>
-      {% for webmention in mentions | reverse | slice(5) %}
+      {% for webmention in mentions | reverse | head(5) %}
         <img src="{% if webmention.author.photo %}{{ webmention.author.photo }}{% else %}{{ '/img/webmention-avatar-default.svg' | url }}{% endif %}" title="{{ webmention.author.name }}" alt=""/>
       {% endfor %}
       {% if mentions.length > 5 %}

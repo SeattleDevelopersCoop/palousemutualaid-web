@@ -1,7 +1,9 @@
-{% set mentions = webmentions.children | webmentionsForUrl(absoluteUrl) %}
+{%- set absoluteUrl = 'https://mxb.at/blog/using-webmentions-on-static-sites/' -%}
+{%- set mentions = webmentions.children | webmentionsForUrl(absoluteUrl) -%}
 <div class="webmentions" id="webmentions">
-  {% if mentions | length %}
+  <h3>Webmentions</h3>
 
+  {% if mentions | length %}
     <div>
       {% for webmention in mentions | reverse | head(5) %}
         <img src="{% if webmention.author.photo %}{{ webmention.author.photo }}{% else %}{{ '/img/webmention-avatar-default.svg' | url }}{% endif %}" title="{{ webmention.author.name }}" alt=""/>

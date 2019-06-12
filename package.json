@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A fork of eleventy-base-blog including webmention.io support",
   "scripts": {
+    "start": "npx eleventy --serve",
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"

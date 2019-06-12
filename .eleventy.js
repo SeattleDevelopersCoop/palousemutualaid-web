@@ -10,9 +10,12 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk')
 
-  eleventyConfig.addFilter('readableDate', dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('dd LLL yyyy')
-  })
+  eleventyConfig.addFilter(
+    'readableDate',
+    (dateObj, format = 'dd LLL yyyy') => {
+      return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format)
+    }
+  )
 
   eleventyConfig.addFilter('dateFromTimestamp', timestamp => {
     return DateTime.fromISO(timestamp, { zone: 'utc' }).toJSDate()
@@ -35,26 +38,23 @@ module.exports = function(eleventyConfig) {
   // Webmentions Filter
   eleventyConfig.addFilter('webmentionsForUrl', (webmentions, url) => {
     const allowedTypes = ['mention-of', 'in-reply-to']
-    const allowedHTML = {
-      allowedTags: ['b', 'i', 'em', 'strong', 'a'],
-      allowedAttributes: {
-        a: ['href']
-      }
-    }
-
-    const clean = entry => {
-      const { content } = entry
-      if (content && content['content-type'] === 'text/html') {
-        content.value = sanitizeHTML(content.value, allowedHTML)
-      }
-      return entry
-    }
+    const clean = content =>
+      sanitizeHTML(content, {
+        allowedTags: ['b', 'i', 'em', 'strong', 'a'],
+        allowedAttributes: {
+          a: ['href']
+        }
+      })
 
     return webmentions
       .filter(entry => entry['wm-target'] === url)
       .filter(entry => allowedTypes.includes(entry['wm-property']))
       .filter(entry => !!entry.content)
-      .map(clean)
+      .map(entry => {
+        const { html, text } = entry.content
+        entry.content.value = html ? clean(html) : clean(text)
+        return entry
+      })
   })
 
   eleventyConfig.addCollection('tagList', require('./_11ty/getTagList'))

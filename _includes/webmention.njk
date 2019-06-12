@@ -11,13 +11,13 @@
       </a>
     {% else %}
       <span class="webmention__author">
-        <img class="webmention__author__photo" src="{{ '/assets/images/avatar-default.svg' | url }}" alt="">
+        <img class="webmention__author__photo" src="{{ '/img/webmention-avatar-default.svg' | url }}" alt="">
         <strong>Anonymous</strong>
       </span>
     {% endif %}
 
     {% if webmention.published %}
-      <time class="webmention__pubdate dt-published" datetime="{{ webmention.published }}">{{ webmention.published | dateFromTimestamp | readableDate }}</time>
+      <time class="webmention__pubdate dt-published" datetime="{{ webmention.published }}">{{ webmention.published | dateFromTimestamp | readableDate("dd LLL yyyy - HH:mm") }}</time>
     {% endif %}
   </div>
   <div class="webmention__content p-content">

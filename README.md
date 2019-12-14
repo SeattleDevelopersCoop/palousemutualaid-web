@@ -19,7 +19,7 @@ Follow these steps to get it working:
 
 2. Once you've verified domain ownership, go to the [settings page](https://webmention.io/settings). Copy the token listed under "API Key" there.
 
-3. Paste the token into the `.env.sample` file, then delete the `.sample` from the filename.
+3. Paste the token into the `.env.sample` file, then delete the `.sample` from the filename. That's a secret key, so this file should be in your `.gitignore`. If you are hosting your site on Netlify, make sure to [enter the token in your build settings](https://docs.netlify.com/configure-builds/environment-variables/#declare-variables).
 
 4. Check the information in `_data/metadata.json` and make sure your domain name is correct.  It should look like `example.com`.
 

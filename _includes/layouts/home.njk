@@ -3,3 +3,17 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 ---
 {{ content | safe }}
+
+<h3>Most Recent Posts</h3>
+
+{% set postslist = collections.posts | head(-3) %}
+{% include "postslist.njk" %}
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+
+<ul>
+<li><a href="https://twitter.com/aidpalouse" rel="me">AidPalouse on Twitter</a></li>
+<li><a href="mailto:info@palousemutualaid.com" rel="me">info@palousemutualaid.com</a></li>
+</ul>
+
+

@@ -1,17 +1,17 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "domain": "myurl.com",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Palouse Mutual Aid",
+  "url": "https://www.palousemutualaid.com/",
+  "domain": "palousemutualaid.com",
+  "description": "Solidarity, not charity.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Solidarity, not charity.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://www.palousemutualaid.com/feed/feed.xml",
+    "id": "https://www.palousemutualaid.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Andy Jacobs",
+    "email": "andy@seattledevelopers.coop"
   }
 }

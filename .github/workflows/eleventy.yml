@@ -10,7 +10,10 @@ jobs:
         with:
           node-version: '12'
       - run: npm install
-      - run: npx @11ty/eleventy
+      - name: Build 11ty Site
+        run: npx @11ty/eleventy
+        env:
+          WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
 #      - uses: bahmutov/npm-install@v1
 #        with:
 #          useLockFile: false

@@ -45,9 +45,9 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 ## Medical
 
 - [Palouse Open Source COVID19 Medical Supplies](https://docs.google.com/forms/d/e/1FAIpQLSc_SWVOkSSGM-RiPUytk_AoCL1mj2ccQunjsLXBEGDxZT7myQ/viewform)
-CHI Franciscan - [iOS App](https://apps.apple.com/us/app/franciscan-virtual-care/id1455879959?ls=1%20), [Android App](https://play.google.com/store/apps/details?id=org.chifranciscan.android.chih.virtualcare) or [website](https://franciscanvirtualcare.org/landing.htm) discount code "COVID19"
-> If you or a loved one have mild respiratory symptoms suggesting Coronavirus (COVID-19) such as cough, low-grade fever or mild respiratory problems, schedule a FREE Franciscan Virtual Urgent Care visit today and enter the discount code COVID19.
-> _[Franciscan Virtual Care](https://franciscanvirtualcare.org/landing.htm)_
+- CHI Franciscan - [iOS App](https://apps.apple.com/us/app/franciscan-virtual-care/id1455879959?ls=1%20), [Android App](https://play.google.com/store/apps/details?id=org.chifranciscan.android.chih.virtualcare) or [website](https://franciscanvirtualcare.org/landing.htm) discount code "COVID19"
+  > If you or a loved one have mild respiratory symptoms suggesting Coronavirus (COVID-19) such as cough, low-grade fever or mild respiratory problems, schedule a FREE Franciscan Virtual Urgent Care visit today and enter the discount code COVID19.
+  > _[Franciscan Virtual Care](https://franciscanvirtualcare.org/landing.htm)_
 
 ## Shelter
 

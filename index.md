@@ -9,6 +9,7 @@ navtitle: Home
 
 - [Food Not Bombs of the Palouse](https://www.facebook.com/FNBPalouse)
 - [Palouse Covid-19 Mutual Aid](https://www.facebook.com/palouse.covid19.mutual.aid/)
+- [Whitman County COVID-19 Community Response and Recovery Page](https://www.facebook.com/groups/240389003760287/?ref=share)
 
 ## What is Mutual Aid?
 
@@ -48,6 +49,7 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 - CHI Franciscan - [iOS App](https://apps.apple.com/us/app/franciscan-virtual-care/id1455879959?ls=1%20), [Android App](https://play.google.com/store/apps/details?id=org.chifranciscan.android.chih.virtualcare) or [website](https://franciscanvirtualcare.org/landing.htm) discount code "COVID19"
   > If you or a loved one have mild respiratory symptoms suggesting Coronavirus (COVID-19) such as cough, low-grade fever or mild respiratory problems, schedule a FREE Franciscan Virtual Urgent Care visit today and enter the discount code COVID19.
   > _[Franciscan Virtual Care](https://franciscanvirtualcare.org/landing.htm)_
+- [Care for your Coronavirus Anxiety](https://www.virusanxiety.com/) - 
 
 ## Shelter
 
@@ -84,6 +86,7 @@ Pullman School District is accepting donations in the marked bins at any school 
   - Safeway Tues, Thur: 7am – 9am
   - 5am – 1am, Pick-up through April 15th, Online Ordering
   - Hours: 7am – 8:30pm, Normal Services, Limits on certain products (Toilet Paper, Hand Sanitizer, Wipes, etc)
+- Co-quarantined with an abuser? National Domestic Violence Hotline: CALL 1−800−799−7233 or TTY 1−800−787−3224 or CHAT at http://thehotline.org and [Alternatives to Violence of the Palouse](http://atvp.org)
 
 ## Community Resources
 
@@ -92,3 +95,6 @@ Pullman School District is accepting donations in the marked bins at any school 
 - [Support the Palouse](http://palouseinfo.com/)
 - [Moscow Chamber of Commerce C19 Updates](http://www.moscowchamber.com/covid-19)
 
+## Organizing
+
+- [Leadership Techniques for Mutuality and not Hierarchy](http://www.deanspade.net/2019/09/25/leadership-qualities-that-support-mutuality-and-collaboration/)

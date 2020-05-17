@@ -55,9 +55,9 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 
 - We are in need of shelter support resources
 
-## Financial
+## Financial & Employment
 
-- We are in need of financial support resources
+- [Worker Organizing Toolkit](https://docs.google.com/document/d/13CMbz7hP3GeQdwB5zlYoxl6gB9d5hatjKc-i74Q6Tmc/edit#)
 
 ## Education
 

@@ -34,3 +34,61 @@ Mutual Aid is a practice and politics that emphasizes solidarity rather than cha
 - A reason for a social safety net not to exist
 
 From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp)
+
+## Food
+
+- [Pullman Public Schools meal pickup and delivery](https://www.pullmanschools.org/apps/pages/index.jsp?uREC_ID=1668785&type=d&pREC_ID=1853685)
+- [Support the Palouse](http://palouseinfo.com/) has a huge list of open restaurants
+- [Cooperative Gardens Commission](https://coopgardens.org/) - will help you with gardening advice, supplies, and finding a plot
+- [Pullman Community Garden at Koppel Farm](https://sites.google.com/site/koppelfarm/) - may still have some plots available
+
+## Medical
+
+- [Palouse Open Source COVID19 Medical Supplies](https://docs.google.com/forms/d/e/1FAIpQLSc_SWVOkSSGM-RiPUytk_AoCL1mj2ccQunjsLXBEGDxZT7myQ/viewform)
+CHI Franciscan - [iOS App](https://apps.apple.com/us/app/franciscan-virtual-care/id1455879959?ls=1%20), [Android App](https://play.google.com/store/apps/details?id=org.chifranciscan.android.chih.virtualcare) or [website](https://franciscanvirtualcare.org/landing.htm) discount code "COVID19"
+> If you or a loved one have mild respiratory symptoms suggesting Coronavirus (COVID-19) such as cough, low-grade fever or mild respiratory problems, schedule a FREE Franciscan Virtual Urgent Care visit today and enter the discount code COVID19.
+> _[Franciscan Virtual Care](https://franciscanvirtualcare.org/landing.htm)_
+
+## Shelter
+
+- We are in need of shelter support resources
+
+## Financial
+
+- We are in need of financial support resources
+
+## Education
+
+Pullman School District is accepting donations in the marked bins at any school in the district. They are distributed to students during meal pickup.
+- Notebook Paper
+- Spiral notebooks
+- Glue sticks
+- Crayons
+- Markers
+- Pencils
+- Pens
+- Erasers
+- Colored pencils
+
+## Social
+
+- Get to know your neighbors and check in on them, resource share!
+- [Build Your Neighborhood Pod](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp)
+  - Many Pullman neighborhoods are on NextDoor
+- Join local Buy Nothing groups on Facebook
+
+## Safety
+
+- Pullman Sunset Mart is offering full-service fillups 11am to 5pm Wed and Sat
+- Walmart & Safeway are offering reserved hours for at-risk groups (senior citizens, pregnant women, immune compromised). 
+  - Safeway Tues, Thur: 7am – 9am
+  - 5am – 1am, Pick-up through April 15th, Online Ordering
+  - Hours: 7am – 8:30pm, Normal Services, Limits on certain products (Toilet Paper, Hand Sanitizer, Wipes, etc)
+
+## Community Resources
+
+- [City of Pullman C19 Updates](https://www.pullman-wa.gov/government/departments/police_department/alerts___updates)
+- [Pullman Chamber of Commerce Community Resources](https://pullmanchamber.com/business-information/covid-19/)
+- [Support the Palouse](http://palouseinfo.com/)
+- [Moscow Chamber of Commerce C19 Updates](http://www.moscowchamber.com/covid-19)
+

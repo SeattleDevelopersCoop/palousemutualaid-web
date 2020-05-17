@@ -1,36 +1,38 @@
-# eleventy-webmentions
+# Palouse Mutual Aid Webpage
 
-A basic starter template for [Eleventy](https://www.11ty.io) blogs with added support for [webmentions](https://indieweb.org/Webmention).  
-For more information about this, read [Static Indieweb: Using Webmentions](https://mxb.at/blog/using-webmentions-on-static-sites/).
+This is a website listing organizations on the Palouse near Pullman, WA and
+Moscow, ID providing mutual aid, as well as other opportunities to get
+involved.
 
-![Example of Webmention Section](https://mxb.at/assets/media/static-indieweb-webmentions/starter-template.png)
+View the website at https://www.palousemutualaid.com/
 
 ## Installation
 
-Run `npm install` after cloning this repository. The available commands are identical to [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Instructions for running this site locally for testing:
 
-## Enable Webmentions
+First, clone this repository:
 
-Follow these steps to get it working:
+```shell script
+git clone https://github.com/SeattleDevelopersCoop/palousemutualaid-web
+cd palousemutualaid-web
+```
 
-1. Go to [https://webmention.io/](https://webmention.io/) and sign in. To authenticate, you will have to include a `<a rel="me">` link at your domain, pointing to your github or twitter user URL:  
+Then, install `eleventy`:
 
-```<a href="https://github.com/maxboeck" rel="me">Max on Github</a>```
+```shell script
+sudo npm install -g @11ty/eleventy
+```
 
-2. Once you've verified domain ownership, go to the [settings page](https://webmention.io/settings). Copy the token listed under "API Key" there.
+Install the package requirements:
 
-3. Paste the token into the `.env.sample` file, then delete the `.sample` from the filename. That's a secret key, so this file should be in your `.gitignore`. If you are hosting your site on Netlify, make sure to [enter the token in your build settings](https://docs.netlify.com/configure-builds/environment-variables/#declare-variables).
+```shell script
+npm install
+```
 
-4. Check the information in `_data/metadata.json` and make sure your domain name is correct.  It should look like `example.com`.
+Finally, serve the site:
 
-4. Run Eleventy. It will try to fetch the webmentions for your domain (you may not yet have any, check your webmentions.io [dashboard](https://webmention.io/dashboard)). After the first use, a cached json file will be created so you don't have to re-fetch that data everytime eleventy regenerates the site in development.
+```shell script
+eleventy --serve
+```
 
-## Customization
-
-This starter includes just the basic functionality, feel free to make it your own.  
-The relevant parts are: 
-
-* Templates: `_includes/webmentionlist.njk` and `_includes/webmention.njk`
-* Filter: `webmentionsForUrl` in `.eleventy.js`
-* Data Fetching: `_data/webmentions.js`
-* Basic Styling: `css/webmentions.css`
+You can now point your web browser at http://localhost:8080 to view the site.

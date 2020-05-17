@@ -53,7 +53,8 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 
 ## Shelter
 
-- We are in need of shelter support resources
+- [Call for a Rent Strike](https://rentstrike.noblogs.org/)
+- [Covid-19 Legal Resources](https://www.brumleylawfirm.com/covid-19-legal-resources) - landlord letter, etc.
 
 ## Financial & Employment
 
@@ -61,16 +62,17 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 
 ## Education
 
-Pullman School District is accepting donations in the marked bins at any school in the district. They are distributed to students during meal pickup.
-- Notebook Paper
-- Spiral notebooks
-- Glue sticks
-- Crayons
-- Markers
-- Pencils
-- Pens
-- Erasers
-- Colored pencils
+- Pullman School District is accepting donations in the marked bins at any school in the district. They are distributed to students during meal pickup.
+  - Notebook Paper
+  - Spiral notebooks
+  - Glue sticks
+  - Crayons
+  - Markers
+  - Pencils
+  - Pens
+  - Erasers
+  - Colored pencils
+- [COVID-19 Solidarity Resources for Students](https://docs.google.com/document/d/1JEwYeYeqhe0xCUSHZHV0ZKeUwxqVCQlcDq-pM-0a9YU/edit)
 
 ## Social
 

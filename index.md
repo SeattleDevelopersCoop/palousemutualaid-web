@@ -10,6 +10,7 @@ navtitle: Home
 - [Food Not Bombs of the Palouse](https://www.facebook.com/FNBPalouse)
 - [Palouse Covid-19 Mutual Aid](https://www.facebook.com/palouse.covid19.mutual.aid/)
 - [Whitman County COVID-19 Community Response and Recovery Page](https://www.facebook.com/groups/240389003760287/?ref=share)
+- [Palouse Hotline](http://palouse.persona.co/)
 
 ## What is Mutual Aid?
 

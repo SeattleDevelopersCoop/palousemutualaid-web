@@ -54,6 +54,8 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 
 ## Shelter
 
+- [Washington State Landlord-Tenant Resources](https://www.atg.wa.gov/landlord-tenant)
+- [RCW Title 59 - Landlord and Tenant Law](https://apps.leg.wa.gov/rcw/default.aspx?Cite=59)
 - [Call for a Rent Strike](https://rentstrike.noblogs.org/)
 - [Covid-19 Legal Resources](https://www.brumleylawfirm.com/covid-19-legal-resources) - landlord letter, etc.
 
@@ -97,6 +99,10 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 - [Pullman Chamber of Commerce Community Resources](https://pullmanchamber.com/business-information/covid-19/)
 - [Support the Palouse](http://palouseinfo.com/)
 - [Moscow Chamber of Commerce C19 Updates](http://www.moscowchamber.com/covid-19)
+
+## Undocumented Community
+
+- [Immigrants Rising](https://docs.google.com/document/d/1PxLuuH0-hwHXftUXuEi52Q1qWUDegN8_I1L4ulIFwzk/edit) - has many national resources for education, housing, and legal help
 
 ## Organizing
 

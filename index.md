@@ -59,6 +59,11 @@ From the [Mutual Aid 101 Toolkit](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyO
 - [Call for a Rent Strike](https://rentstrike.noblogs.org/)
 - [Covid-19 Legal Resources](https://www.brumleylawfirm.com/covid-19-legal-resources) - landlord letter, etc.
 
+## Child Care
+
+- [Coronavirus quarantine resources for parents and caregivers](https://docs.google.com/document/d/1hOQrtB3ae-Vbc_roGNRiKUncXjViA61xWQKbWWev5Bk/edit)
+- [275+ enrichment activities for kids while working at home](https://www.enrichmentactivities.org/)
+
 ## Financial & Employment
 
 - [Worker Organizing Toolkit](https://docs.google.com/document/d/13CMbz7hP3GeQdwB5zlYoxl6gB9d5hatjKc-i74Q6Tmc/edit#)
